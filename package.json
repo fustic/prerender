@@ -1,11 +1,11 @@
 {
   "author": "Prerender.io",
-  "name": "prerender",
+  "name": "prerender-fustic-s3-test",
   "description": "Service to prerender Javascript rendered pages for SEO",
   "version": "3.11.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/prerender/prerender"
+    "url": "git@github.com:fustic/prerender.git"
   },
   "dependencies": {
     "aws-sdk": "~1.13.0",
